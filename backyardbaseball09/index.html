@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<!-- Ultimate Game Stash file--> 
+<!-- For the regularly updating doc go to https://docs.google.com/document/d/1_FmH3BlSBQI7FGgAQL59-ZPe8eCxs35wel6JUyVaG8Q/ -->
+<head>
+<script>
+window.gameconfig = {
+  name: "Backyard Baseball 2009",
+  url: "https://cdn.jsdelivr.net/gh/bubbls/ugss@master/backyardbaseball09/backyardbaseball09.iso",
+  core: "ps2",
+  min: 1,
+  max: 1,
+};
+</script>
+<script src="https://cdn.jsdelivr.net/gh/genizy/emu@master/loader.js"></script>
+</head>
+<body>
+<div id="game"></div>
+<script>
+EJS_player = "#game";
+EJS_core = window.gameconfig.core;
+EJS_gameUrl = window.gameconfig.url;
+EJS_startOnLoaded = true;
+EJS_pathtodata = "https://cdn.jsdelivr.net/gh/genizy/emu@master/";
+</script>
+</body>
+</html>
