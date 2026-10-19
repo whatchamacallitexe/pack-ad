@@ -1,0 +1,30 @@
+<html>
+
+
+<!-- Ultimate Game Stash file--> 
+<!-- For the regularly updating doc go to https://docs.google.com/document/d/1_FmH3BlSBQI7FGgAQL59-ZPe8eCxs35wel6JUyVaG8Q/ -->
+
+
+  <head>
+    <script>
+      window.gameconfig = {
+        name: "Banjo-Kazooie",
+        url: "https://cdn.jsdelivr.net/gh/bubbls/ugss@63f44d001c95b775db57a9796ec7668541975062/banjokazooie/Banjo-Kazooie%20(USA)%20(Rev%20A).z64",
+        core: "n64",
+        min: 1,
+        max: 1,
+      };
+    </script>
+    <script src="https://cdn.jsdelivr.net/gh/genizy/emu@master/loader.js"></script>
+  </head>
+  <body>
+    <div id="game"></div>
+    <script>
+      EJS_player = "#game";
+      EJS_core = window.gameconfig.core;
+      EJS_gameUrl = window.gameconfig.url;
+      EJS_startOnLoaded = true;
+      EJS_pathtodata = "https://cdn.jsdelivr.net/gh/genizy/emu@master/";
+    </script>
+  </body>
+</html>

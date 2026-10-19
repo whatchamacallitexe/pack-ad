@@ -1,0 +1,23 @@
+<html>
+<!-- Ultimate Game Stash -->
+<head>
+<script>
+window.gameconfig = {
+  name: "Banjo-Tooie",
+  url: "https://cdn.jsdelivr.net/gh/bubbls/ugss@master/banjotooie/Banjo-Tooie%20(USA).z64",
+  core: "n64",
+};
+</script>
+</head>
+<body>
+<div id="game"></div>
+<script src="https://cdn.jsdelivr.net/gh/genizy/emu@master/loader.js"></script>
+<script>
+EJS_player = "#game";
+EJS_core = "n64";
+EJS_gameUrl = window.gameconfig.url;
+EJS_startOnLoaded = true;
+EJS_pathtodata = "https://cdn.jsdelivr.net/gh/genizy/emu@master/";
+</script>
+</body>
+</html>
