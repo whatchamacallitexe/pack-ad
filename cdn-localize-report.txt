@@ -1,0 +1,25 @@
+FILE backrooms: https://cdn.jsdelivr.net/gh/aKevbo/lumassets@39dcf72cfd3d38396758105fcd0a41ac651a0bc1/backrooms/TemplateData/UnityProgress.js -> assets/cdn/73d718bc-UnityProgress.js
+FILE backrooms: https://cdn.jsdelivr.net/gh/aKevbo/lumassets@39dcf72cfd3d38396758105fcd0a41ac651a0bc1/backrooms/Build/UnityLoader.js -> assets/cdn/7e9d854f-UnityLoader.js
+FILE backrooms: https://cdn.jsdelivr.net/gh/aKevbo/lumassets@39dcf72cfd3d38396758105fcd0a41ac651a0bc1/backrooms/Build/WebGL.json -> assets/cdn/3280dde3-WebGL.json
+FILE backrooms: https://cdn.jsdelivr.net/gh/aKevbo/lumassets@39dcf72cfd3d38396758105fcd0a41ac651a0bc1/backrooms/TemplateData/style.css -> assets/cdn/72116383-style.css
+FILE backrooms2d: https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@300ae6aa00a22c1a9fd2cdc7bf209b278ae2f4b2/backrooms%202D/TemplateData/style.css -> assets/cdn/db776db0-style.css
+EMU OK genizy/emu@master cores=mupen64plus_next
+FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@master/backyardbaseball09/backyardbaseball09.iso: curl: (22) The requested URL returned error: 404
+
+FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@master/backyardbaseball10/backyardbaseball10.iso: curl: (22) The requested URL returned error: 404
+
+FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@fc90257b218bfa38c619cac18bdebf4da9fc3c0a/backyard%20soccer/Backyard%20Soccer%20(USA).chd: curl: (22) The requested URL returned error: 404
+
+FILE backyardsoccer: https://cdn.jsdelivr.net/gh/Abdess/retroarch_system@5f96368f6dbad5851cdb16a5041fefec4bdcd305/Sony%20-%20PlayStation/scph5501.bin -> assets/cdn/7e5c01d1-scph5501.bin
+FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@master/badparenting/loader.js: curl: (22) The requested URL returned error: 404
+
+FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@master/badtimesim/index.js: curl: (22) The requested URL returned error: 404
+
+FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@63f44d001c95b775db57a9796ec7668541975062/banjokazooie/Banjo-Kazooie%20(USA)%20(Rev%20A).z64: curl: (22) The requested URL returned error: 404
+
+FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@master/banjotooie/Banjo-Tooie%20(USA).z64: curl: (22) The requested URL returned error: 404
+
+FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@master/barryhasasecret/loader.js: curl: (22) The requested URL returned error: 404
+
+FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@master/basketbattle/loader.js: curl: (22) The requested URL returned error: 404
+
