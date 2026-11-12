@@ -1,7 +1,4 @@
-FILE backrooms2d: https://rawcdn.githack.com/bubbls/UGS-Assets/300ae6aa00a22c1a9fd2cdc7bf209b278ae2f4b2/backrooms%202D/7-21-23.loader.js -> assets/cdn/628d8477-7-21-23.loader.js
 SKIP size 77.5MB https://rawcdn.githack.com/bubbls/UGS-Assets/300ae6aa00a22c1a9fd2cdc7bf209b278ae2f4b2/backrooms%202D/7-21-23.data
-FILE backrooms2d: https://rawcdn.githack.com/bubbls/UGS-Assets/300ae6aa00a22c1a9fd2cdc7bf209b278ae2f4b2/backrooms%202D/7-21-23.framework.js -> assets/cdn/d2cec1ef-7-21-23.framework.js
-FILE backrooms2d: https://rawcdn.githack.com/bubbls/UGS-Assets/300ae6aa00a22c1a9fd2cdc7bf209b278ae2f4b2/backrooms%202D/7-21-23.wasm -> assets/cdn/7df91c1d-7-21-23.wasm
 FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@master/backyardbaseball09/backyardbaseball09.iso: curl: (22) The requested URL returned error: 404
 
 FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@master/backyardbaseball10/backyardbaseball10.iso: curl: (22) The requested URL returned error: 404
